@@ -24,7 +24,7 @@
             "emoji":"U+1F60A"
          }
       ],
-      "type":"RadialBox"
+      "type":"Checkbox"
    },
    {
       "id":"I2eitdygrWQ7KQwnDoHx",
@@ -75,7 +75,7 @@
             }
          }
       ],
-      "type":"RadialBox"
+      "type":"Checkbox"
    },
    {
       "id":"JoRuiy67PryG1h4O0Fzd",
