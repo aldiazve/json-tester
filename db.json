@@ -1,0 +1,147 @@
+[
+   {
+      "id":"C91DWvfynfOG4boFaNO1",
+      "title":"¿Cómo te sientes hoy?",
+      "label":{
+         "content":"Por favor, indícanos si sientes que presentas uno o más síntomas de la enfermedad COVID-19.",
+         "type":"text"
+      },
+      "options":[
+         {
+            "id":"tJGlVSqzKWK8pe9ZcRFj",
+            "label":{
+               "content":"Presento síntomas",
+               "type":"text"
+            },
+            "emoji":"U+1F912"
+         },
+         {
+            "id":"7LHaMEyvCSL5wBNHQxLT",
+            "label":{
+               "content":"Estoy plenito",
+               "type":"text"
+            },
+            "emoji":"U+1F60A"
+         }
+      ],
+      "type":"RadialBox"
+   },
+   {
+      "id":"I2eitdygrWQ7KQwnDoHx",
+      "title":"En las últimas dos semanas",
+      "label":{
+         "content":"",
+         "type":"text"
+      },
+      "options":[
+         {
+            "id":"cBKaw4b68T3hxnau8ITv",
+            "label":{
+               "weigth":0.2,
+               "content":"He estado fuera del país",
+               "type":"text"
+            }
+         },
+         {
+            "id":"Ncb0hZMD3HXFUxZs3i5M",
+            "label":{
+               "weigth":0.2,
+               "content":"He estado aislado",
+               "type":"text"
+            }
+         },
+         {
+            "id":"ioLKq6X1RfXs7MflToBB",
+            "label":{
+               "weigth":0.2,
+               "content":"He estado cerca de alguien con los mismos síntomas",
+               "type":"text"
+            }
+         },
+         {
+            "id":"EbxateaKEk7hxJY1SvPo",
+            "label":{
+               "content":"He recibido atención médica",
+               "type":"text",
+               "weigth":0.2
+            }
+         },
+         {
+            "id":"hTLa8J7cxg3Fq4cHmJoO",
+            "label":{
+               "content":"Estuve cerca de alguien que ha sido diagnosticado con COVID-19",
+               "type":"text",
+               "weigth":0.2
+            }
+         }
+      ],
+      "type":"Checkbox"
+   },
+   {
+      "id":"JoRuiy67PryG1h4O0Fzd",
+      "title":"Me he sentido con",
+      "label":{
+         "content":"",
+         "type":"text"
+      },
+      "options":[
+         {
+            "id":"7EVRGTHChIqxdQVEuWWw",
+            "label":{
+               "content":"Congestión nasal",
+               "type":"text",
+               "weigth":"0,142857142857"
+            }
+         },
+         {
+            "id":"gWoA2ieT4sXt395Qu5je",
+            "label":{
+               "weigth":"0,142857142857",
+               "content":"Dificultad para respirar",
+               "type":"text"
+            }
+         },
+         {
+            "id":"KEcR4pQ26yQVZO5szn2a",
+            "label":{
+               "content":"Dolor de cabeza",
+               "type":"text",
+               "weigth":"0,142857142857"
+            }
+         },
+         {
+            "id":"FLnUO8KQAGpTlU6l6SxF",
+            "label":{
+               "content":"Fiebre",
+               "type":"text",
+               "weigth":"0,142857142857"
+            }
+         },
+         {
+            "id":"y4FnI8eZKK5BQeBflRZC",
+            "label":{
+               "weigth":"0,142857142857",
+               "content":"Dolor de músculos",
+               "type":"text"
+            }
+         },
+         {
+            "id":"8veoNtE1704QH4BzRgFU",
+            "label":{
+               "content":"Fatiga",
+               "type":"text",
+               "weigth":"0,142857142857"
+            }
+         },
+         {
+            "id":"4cgNQzOJieUcft7HAx7y",
+            "label":{
+               "content":"Escalofríos",
+               "type":"text",
+               "weigth":"0,142857142857"
+            }
+         }
+      ],
+      "type":"RadialBox"
+   }
+]
