@@ -1,4 +1,4 @@
-{[
+{
    questions: {
       "id":"C91DWvfynfOG4boFaNO1",
       "title":"¿Cómo te sientes hoy?",
@@ -144,4 +144,4 @@
       ],
       "type":"RadialBox"
    }
-]}
+}
