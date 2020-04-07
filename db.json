@@ -3,7 +3,7 @@
       "id":"C91DWvfynfOG4boFaNO1",
       "title":"¿Cómo te sientes hoy?",
       "label":{
-         "content":"Por favor, indícanos si sientes que presentas uno o más síntomas de la enfermedad COVID-19.",
+         "content":"Por favor, indícanos si sientes que presentas uno o más síntomas asociados a la enfermedad COVID-19.",
          "type":"text"
       },
       "options":[
@@ -28,9 +28,9 @@
    },
    {
       "id":"JoRuiy67PryG1h4O0Fzd",
-      "title":"Me he sentido con",
+      "title":"¿Cuáles de los siguientes síntomas presentas?",
       "label":{
-         "content":"",
+         "content":"Selección uno o varios de los siguientes síntomas:",
          "type":"text"
       },
       "options":[
