@@ -18,13 +18,13 @@
          {
             "id":"7LHaMEyvCSL5wBNHQxLT",
             "label":{
-               "content":"Estoy plenito",
+               "content":"No presento síntomas",
                "type":"text"
             },
             "emoji":"U+1F60A"
          }
       ],
-      "type":"Checkbox"
+      "type":"RadialBox"
    },
    {
       "id":"I2eitdygrWQ7KQwnDoHx",
