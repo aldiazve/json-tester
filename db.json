@@ -1,31 +1,5 @@
 {
-   "question": [{
-      "id":"C91DWvfynfOG4boFaNO1",
-      "title":"¿Cómo te sientes hoy?",
-      "label":{
-         "content":"Por favor, indícanos si sientes que presentas uno o más síntomas asociados a la enfermedad COVID-19.",
-         "type":"text"
-      },
-      "options":[
-         {
-            "id":"tJGlVSqzKWK8pe9ZcRFj",
-            "label":{
-               "content":"Presento síntomas",
-               "type":"text"
-            },
-            "emoji":"U+1F912"
-         },
-         {
-            "id":"7LHaMEyvCSL5wBNHQxLT",
-            "label":{
-               "content":"No presento síntomas",
-               "type":"text"
-            },
-            "emoji":"U+1F60A"
-         }
-      ],
-      "type":"RadialBox"
-   },
+   "question": [
    {
       "id":"JoRuiy67PryG1h4O0Fzd",
       "title":"¿Cuáles de los siguientes síntomas presentas?",
